@@ -15,11 +15,11 @@
 html,
 body {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 body {
   font-family: "Montserrat";
   line-height: 1.6;
-  /* overflow-x: hidden; */
 }
 ul {
   list-style: none;
